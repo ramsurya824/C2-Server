@@ -6,7 +6,7 @@
 ## 🧠 Project Architecture
 
 
-<img src="https://github.com/user-attachments/assets/ab272d6a-8a90-4332-b4a0-00748964a4d6" alt="Architecture" width="600"/>
+<img src="https://github.com/user-attachments/assets/c507c7a8-1272-4723-a7b3-15a3bd908045" alt="Architecture" width="600"/>
 
 
 
