@@ -1,0 +1,4 @@
+﻿  ShellcodeEncryption.cpp
+C:\Users\ASUS\source\repos\ShellcodeEncryption\ShellcodeEncryption\ShellcodeEncryption.cpp(8,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ShellcodeEncryption\ShellcodeEncryption\ShellcodeEncryption.cpp(11,33): warning C4018: '<': signed/unsigned mismatch
+  ShellcodeEncryption.vcxproj -> C:\Users\ASUS\source\repos\ShellcodeEncryption\x64\Debug\ShellcodeEncryption.exe
