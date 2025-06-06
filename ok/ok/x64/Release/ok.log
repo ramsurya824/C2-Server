@@ -1,0 +1,44 @@
+﻿  ok.cpp
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(136,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(159,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(244,24): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(244,24): warning C4309: '=': truncation of constant value
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(288,10): warning C4101: 'result': unreferenced local variable
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(318,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(495,66): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(626,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PCHAR *'
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(876,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(894,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(912,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PWSTR'
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%lls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%Ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%ws' in the format string
+  
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(974,37): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(982,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1021,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1050,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1066,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1078,96): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PWSTR'
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%lls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%Ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%ws' in the format string
+  
+  Generating code
+  1 of 47 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+  Finished generating code
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  ok.vcxproj -> C:\Users\ASUS\source\repos\ok\x64\Release\ok.exe
