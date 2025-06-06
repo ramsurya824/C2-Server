@@ -40,8 +40,4 @@ The architecture of this Command and Control (C2) infrastructure is composed of 
 
 ---
 
-    - **Bypassing Api hooking** - Callback-Based Evasion (stealthier than indirect system calls) - mainly to evade EDRs which uses userland hooking and ETW(Event Tracing Window)
 
-### ShellcodeEncryption.cpp
-
-- Uses XOR encryption algorithm to encrypt the shellcode.
