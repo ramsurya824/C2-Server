@@ -1,0 +1,33 @@
+﻿  ok.cpp
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(244,24): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(244,24): warning C4309: '=': truncation of constant value
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(260,19): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(271,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(288,10): warning C4101: 'result': unreferenced local variable
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(626,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PCHAR *'
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PWSTR'
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%lls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%Ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(964,28):
+      consider using '%ws' in the format string
+  
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PWSTR'
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%lls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%Ls' in the format string
+      C:\Users\ASUS\source\repos\ok\ok\ok.cpp(1190,36):
+      consider using '%ws' in the format string
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ASUS\source\repos\ok\ok\ok.cpp(758): warning C4715: 'ListDirectoryContents': not all control paths return a value
+  All 47 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ok.vcxproj -> C:\Users\ASUS\source\repos\ok\Release\ok.exe
